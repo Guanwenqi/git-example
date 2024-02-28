@@ -6,5 +6,5 @@ hello world
 hello world
 master fix
 fixed hot-fix
-re:5
+re:3
 ssh test
